@@ -36,9 +36,9 @@ function Hero() {
             <img src={linkedinIcon} alt="github icon" /></a>
         </span>
         <p className={styles.description}>Enthusiastic entry-level Web Developer proficient in HTML5, CSS3, JavaScript, and modern frameworks like
-React.js. Familiar with C, Java, JavaScript and Networking.
-Eager to leverage trending technologies to create dynamic web applications.Hardworking, highly motivated
-professional eager to lend combined knowledge and skills to enhance performance.</p>
+        React.js. Familiar with C, Java, JavaScript and Networking.
+        Eager to leverage trending technologies to create dynamic web applications.Hardworking, highly motivated
+        professional eager to lend combined knowledge and skills to enhance performance.</p>
         <a href={cv} download>
             <button className="hover">Resume</button>
         </a>
