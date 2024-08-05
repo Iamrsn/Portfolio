@@ -13,7 +13,7 @@ function Projects() {
           src={Digital}
           link="https://github.com/Iamrsn/signature"
           h3="Digital Signature"
-          p="Implement a digital signature feature on a web page using HTML for structure, CSS for design and layout of the
+          p=" Implement a digital signature feature on a web page using HTML for structure, CSS for design and layout of the
           signature pad, and JavaScript for interactivity and functionality such as capturing, saving, and possibly verifying
           the signature input."
         />
@@ -21,7 +21,7 @@ function Projects() {
           src={Number}
           link="https://github.com/Iamrsn/Number_Guessing_Game"
           h3="Number Guessing Game "
-          p="This project involves creating a Number Guessing Game using HTML, CSS, and JavaScript. The game challenges
+          p=" This project involves creating a Number Guessing Game using HTML, CSS, and JavaScript. The game challenges
           players to guess a randomly generated number within a specified range"
         />
         <ProjectCard
