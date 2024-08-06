@@ -11,10 +11,9 @@
 }
 
 
-.navbar-logo a {
+.navbar-logo img{
+  height: 6vh;
   color: white;
-  text-decoration: none;
-  font-size: 1.5rem;
 }
 
 .navbar-toggle {
@@ -94,6 +93,7 @@
   .navbar {
     flex-direction: column;
     align-items: flex-start;
+    max-width: 100%;
   }
 
   .navbar-toggle {

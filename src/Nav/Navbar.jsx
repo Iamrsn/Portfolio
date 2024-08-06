@@ -1,5 +1,8 @@
 import React, { useState } from 'react';
 import './Navbar.css';
+import logo1 from "../assets/images/logo1.png"
+
+
 
 const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
@@ -11,7 +14,7 @@ const Navbar = () => {
   return (
     <nav className="navbar">
       <div className="navbar-logo">
-        <a href="/">PortFolio</a>
+      <img src={logo1} alt='logo'/>
       </div>
       <button className="navbar-toggle" onClick={toggleNavbar}>
         ☰
